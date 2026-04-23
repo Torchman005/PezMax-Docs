@@ -1,8 +1,8 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
-  title: "Ptmj Desktop",
-  description: "优雅、强大的本地资料库 - 官方下载",
+  title: "PexMax - 拼图满绩",
+  description: "优雅、强大的学习资料库 - 官方下载",
   
   // 优化文档的路由，使其更干净 (移除 .html)
   cleanUrls: true,
@@ -18,13 +18,13 @@ export default defineConfig({
 
     // 社交链接
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/your-repo/ptmj-desktop' }
+      { icon: 'github', link: 'https://github.com/Torchman005/PezMax-Desktop' },
     ],
 
     // 页脚信息
     footer: {
       message: '为追求纯粹体验的教育者与学习者打造。',
-      copyright: 'Copyright © 2024 Ptmj Team'
+      copyright: 'Copyright © 2026 PexMax Team'
     }
   }
 })

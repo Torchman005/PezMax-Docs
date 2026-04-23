@@ -2,14 +2,14 @@
 layout: home
 
 hero:
-  name: "Ptmj Desktop"
+  name: "PezMax"
   text: "优雅、强大的本地资料库"
   tagline: "摒弃繁杂，回归纯粹。在 macOS 与 Windows 上享受如丝般顺滑的试题与书签管理体验。"
   
   # 预留给未来您放软件实际运行截图的地方
   # image:
   #   src: /app-preview.png 
-  #   alt: Ptmj Desktop Interface
+  #   alt: PezMax Interface
 
   actions:
     - theme: brand
@@ -24,13 +24,13 @@ hero:
 
 features:
   - title: 🚀 极速原生体验
-    details: 基于 Electron 与 Vue 3 构建，毫秒级启动，告别 Web 端的卡顿与等待。
+    details: 基于 Electron 与 Vue 3 构建，告别 Web 端的卡顿与等待。
     icon: ⚡
   - title: 💎 沉浸式毛玻璃 UI
     details: 深度定制的 Glassmorphism 界面，自动跟随系统深色模式，让每一次点击都是视觉享受。
     icon: 💅
   - title: 📦 本地与云端无缝同步
-    details: 客户端一键直传 MinIO，完美对接 RuoYi 后端，构建安全的企业级数据流。
+    details: 客户端一键直传 MinIO，完美对接 RuoYi 后端，构建安全数据流。
     icon: ☁️
   - title: 🔖 智能书签便当盒
     details: 创新的 Bento Box 布局，将杂乱的网课、论文、博客链接整理得井井有条。
@@ -66,8 +66,8 @@ features:
 }
 </style>
 
-## 探索 Ptmj 的无限可能
+<!-- ## 探索 PezMax 的无限可能
 
 ::: tip 💡 提示
-这是 Ptmj Desktop 的官方下载站点雏形。未来您可以在这里放置应用的演示视频、功能动图以及详细的用户指南。
-:::
+这是 PezMax 的官方下载站点雏形。未来您可以在这里放置应用的演示视频、功能动图以及详细的用户指南。
+::: -->
