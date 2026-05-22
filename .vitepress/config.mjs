@@ -23,7 +23,7 @@ export default defineConfig({
 
     // 页脚信息
     footer: {
-      message: '为追求纯粹体验的教育者与学习者打造。',
+      message: '为追求纯粹体验的教育者与学习者打造。 | QQ交流群：1077605719',
       copyright: 'Copyright © 2026 PexMax Team'
     }
   }

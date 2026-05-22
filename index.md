@@ -21,6 +21,9 @@ hero:
     - theme: alt
       text: 查看更新日志
       link: /changelog
+    - theme: alt
+      text: 💬 加入 QQ 交流群：1077605719
+      link: /support#💬-加入社区交流
 
 features:
   - title: 🚀 极速原生体验
