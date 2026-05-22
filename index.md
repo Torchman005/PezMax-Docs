@@ -14,10 +14,10 @@ hero:
   actions:
     - theme: brand
       text:  下载 macOS 版 (Apple Silicon)
-      link: /download/mac-arm64
+      link: https://github.com/Torchman005/PezMax-Desktop/releases/download/v1.0.0/PezMax-1.0.0-arm64.dmg
     - theme: brand
       text: ⊞ 下载 Windows 版 (x64)
-      link: /download/windows-x64
+      link: https://github.com/Torchman005/PezMax-Desktop/releases/tag/publish/PezMax-1.0.0-setup.exe
     - theme: alt
       text: 查看更新日志
       link: /changelog
